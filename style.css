@@ -27,6 +27,7 @@ form input{
     justify-content: space-between;
     padding:20px;
     flex-wrap: wrap;
+  
 }
 button{
     width: 60px;
@@ -36,6 +37,7 @@ button{
     border-radius: 5px;
     margin:5px 0;
     border:1px solid black;
+    box-shadow: 2px 2px 20px rgb(143, 138, 138);
 }
 .btn-yellow{
 background-color: rgb(245, 146, 62);
